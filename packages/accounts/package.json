@@ -51,7 +51,7 @@
     "saml-idp": "^1.1.0",
     "tslib": "1.10.0",
     "url-join": "^4.0.1",
-    "validator": "^13.6.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@steedos/auth": "2.1.65",
